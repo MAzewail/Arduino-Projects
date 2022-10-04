@@ -18,7 +18,7 @@
 
 * As shown in the following diagram the frist seven segment has connected with just only 6 pins instead of seven and this trick had been made because the maximum distance can be measured by the ultrsonic sensor is 3 meters, So the numbers may appear on the first seven segments are 1,2,3 meters only, but according to the next representation
 
-{
+"""[
 .....................
 
   |
@@ -38,6 +38,6 @@
 
 ....................
 
-}
+]"""
 
 ![Progect_Image](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/Project_diagram.PNG)
