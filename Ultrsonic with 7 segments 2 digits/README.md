@@ -17,4 +17,4 @@
 The challenge here in such project is the limited number of pins in Arduino Uno and there are many different solutions for such problems but here the solution is very simple also helping to minimize the code and the number of pins used
 
 
-![C:\Users\Mohamed\Desktop\Arduino-Projects\Ultrsonic with 7 segments 2 digits]
+![Progect_Image](C:\Users\Mohamed\Desktop\Arduino-Projects\Ultrsonic with 7 segments 2 digits\Project_diagram.png)
