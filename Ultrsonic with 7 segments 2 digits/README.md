@@ -17,10 +17,20 @@
 * The challenge here in such project is the limited number of pins in Arduino Uno and there are many different solutions for such problems but here the solution is very simple also helping to minimize the code and the number of used pins as well.
 
 * As shown in the following diagram the frist seven segment has connected with just only 6 pins instead of seven and this trick had been made because the maximum distance can be measured by the ultrsonic sensor is 3 meters, So the numbers may appear on the first seven segments are 1,2,3 meters only, but according to the next representations
+  
+<
+  |  
+  |  
 
+ _  
+ _| 
+|_  
 
+ _
+ _| 
+ _|
 
-![txt](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/txt.txt)
+>
 
 ![First number](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/Project_diagram.PNG)
 
