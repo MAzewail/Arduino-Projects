@@ -25,7 +25,7 @@
 
 ![Third-number](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/Third-number.PNG)
 
-
+![System_Working](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/System_Working.PNG)
 
 
 ![Progect_Image](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/Project_diagram.PNG)
