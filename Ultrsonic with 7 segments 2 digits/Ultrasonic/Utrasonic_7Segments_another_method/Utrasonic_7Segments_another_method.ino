@@ -15,8 +15,8 @@
 #define gg 12
 #define trig 13
 #define echo A0
-double num=0,dis=0;
-long duration=0;
+unsigned double num=0,dis=0;
+unsigned long duration=0;
 byte cnt=0,num0=0,num1=0;
 byte s0[7]={a,b,c,d,e,f,g},s1[7]={aa,bb,cc,dd,ee,0,gg};
 byte nums[11][7]={
