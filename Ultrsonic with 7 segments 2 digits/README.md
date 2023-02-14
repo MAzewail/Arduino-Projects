@@ -20,6 +20,10 @@
 
 * Check the following path to open the [tinkercad project](https://www.tinkercad.com/things/jeRZAXHRCxm) 
 
+* These are two solutions for this porject:-
+- The [first one](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/Ultrasonic/Utrasonic_7Segments/Utrasonic_7Segments.ino)  
+- The [Second code](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/Ultrasonic/Utrasonic_7Segments_another_method/Utrasonic_7Segments_another_method.ino)  
+
 ![First-number](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/First-number.PNG)
 
 ![Second-number](https://github.com/MAzewail/Arduino-Projects/blob/main/Ultrsonic%20with%207%20segments%202%20digits/Second-number.PNG)
